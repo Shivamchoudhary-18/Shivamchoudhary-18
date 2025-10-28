@@ -1,7 +1,7 @@
 <<h1 align="center">Hi 👋, I'm Shivam choudhary</h1>
 <h3 align="center">Entrepreneurial spirit meets technical precision. Crafting digital experiences that inspire and perform.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamchoudhary-18" alt="shivamchoudhary-18" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivamchoudhary-18-" alt="shivamchoudhary-18-" /></a> </p>
 
 - 📫 How to reach me **chy07shivam@gmail.com**
 
